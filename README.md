@@ -23,13 +23,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto é uma descontração com minha filha, onde fizemos um video dela falando coreano utilizando um personagem coreano. Visto que ela gosta de Dorama.
+Foi divertido!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usamos o gerador de video da D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Selecionamos uma foto que o rosto esteja visível, escolhemos o idioma, a voz e escrevendo a frase dita.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
